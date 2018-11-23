@@ -1,10 +1,10 @@
 # CBNUOpenSource
 CBNU Open Source Repo
 
-## List
+## 참가자 명단
 * 소현섭
 * 강산
-* CHOI SUBIN
+* 최수빈
 * 홍길동
 ## 추천 프로그램
 * GitAhead
